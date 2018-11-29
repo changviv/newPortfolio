@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="744px" height="402px" viewBox="0 0 744 402" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Black Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Top-Part-Gray---background" stroke="#F9F1F1" stroke-width="9" fill="#F9F1F1" x="4.5" y="-58.5" width="735" height="513" rx="8"></rect>
+        <rect id="Black-Rectangle" stroke="#000000" fill="#000000" x="0.5" y="0.5" width="743" height="401"></rect>
+        <text id="V_" font-family="AmericanTypewriter-Bold, American Typewriter" font-size="88" font-weight="bold" fill="#7ED321">
+            <tspan x="20.84" y="105">V_</tspan>
+        </text>
+        <rect id="Bottom-Part-Black-" stroke="#000000" fill="#000000" x="0.5" y="368.5" width="743" height="90" rx="8"></rect>
+    </g>
+</svg>
